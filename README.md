@@ -40,7 +40,22 @@ Ecco i linguaggi e gli strumenti che uso, con il livello di conoscenza:
 Tutti e tre questi repository contengono progetti scolastici che ho realizzato durante i miei studi.  
 In **Informatica** ho lavorato con **C++**, **Python**, **Java**.  
 In **TEPSIT** mi sono concentrato su **HTML**, **CSS**, **JavaScript**.  
-In **Sistemi** ho utilizzato **Cisco Packet Tracer**.  
+In **Sistemi** ho utilizzato **Cisco Packet Tracer**.
+
+---
+
+## 📒 Appunti principali
+
+Benvenuto nella raccolta degli **appunti principali**!  
+Troverai una **sintesi chiara e aggiornata** dei concetti fondamentali, utile per ripassare o consultare rapidamente i temi di tuo interesse.
+
+- **Struttura ordinata** e facile da seguire
+- **Collegamenti diretti** a guide, risorse ed esempi
+- **Aggiornamenti continui** con nuovi contenuti
+
+👉 **Esplora tutti gli appunti per argomento** [qui](https://aluppidev.github.io)
+
+Buono studio!
 
 ---
 
