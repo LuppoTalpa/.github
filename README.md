@@ -1,7 +1,5 @@
 # 👋 Ciao, sono Alessandro
 
-[![English](https://img.shields.io/badge/🇬🇧-English-green)](./README.en.md)
-
 ## ✨ Chi sono
 
 Sono uno sviluppatore interessato a sviluppo web e videogames.  
