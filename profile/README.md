@@ -1,90 +1,101 @@
 # 👋 Ciao, sono Alessandro
 
-## ✨ Chi sono
-
-Sono uno sviluppatore interessato a sviluppo web e videogames.  
-Mi piace lavorare su progetti pratici e imparare nuove tecnologie.
+Sviluppatore appassionato di **web development** e **game development**.  
+Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 
 ---
 
-## 🏫 Formazione
+## 🚀 Chi sono
 
-<!-- & 💼 Esperienze   -->
-
-- 🎓 Ho studiato presso **IIS Fermo Corni**
-<!-- - - 💻 Ho lavorato in **[Nome Azienda/Organizzazione]** come [ruolo/attività]   -->
-
----
-
-## 🛠️ Linguaggi e Tecnologie
-
-Ecco i linguaggi e gli strumenti che uso, con il livello di conoscenza:
-
-<!-- Advanced-orange, Intermediate-yellow, Beginner-blue -->
-
-![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
-![Python](https://img.shields.io/badge/Python-Beginner-blue)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
-![Java](https://img.shields.io/badge/Java-Beginner-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-blue)
+🎓 Studio presso **IIS Fermo Corni**  
+💻 Sviluppo progetti web, applicazioni e configurazioni di rete  
+🎮 Appassionato di videogame e sviluppo ludico  
+🏢 Membro di [Endless Team](https://github.com/Endless-Team)
 
 ---
 
-## 📂 Repository Principali
+## 🛠️ Tech Stack
 
-- [**Informatica**](https://github.com/AluppiDEV/Informatica)
-- [**TEPSIT**](https://github.com/AluppiDEV/TEPSIT)
-- [**Sistemi**](https://github.com/AluppiDEV/Sistemi)
+**Linguaggi**
 
-Tutti e tre questi repository contengono progetti scolastici che ho realizzato durante i miei studi.  
-In **Informatica** ho lavorato con **C++**, **Python**, **Java**.  
-In **TEPSIT** mi sono concentrato su **HTML**, **CSS**, **JavaScript**.  
-In **Sistemi** ho utilizzato **Cisco Packet Tracer**.
+![Flowgorithm](https://img.shields.io/badge/Flowgorithm-4B0082?style=flat&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
----
+**Strumenti & Tecnologie**
 
-## 📒 Appunti principali
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
-Benvenuto nella raccolta degli **appunti principali**!  
-Troverai una **sintesi chiara e aggiornata** dei concetti fondamentali, utile per ripassare o consultare rapidamente i temi di tuo interesse.
+**Livello di competenza**
 
-- **Struttura ordinata** e facile da seguire
-- **Collegamenti diretti** a guide, risorse ed esempi
-- **Aggiornamenti continui** con nuovi contenuti
-
-👉 **Esplora tutti gli appunti per argomento** [qui](https://aluppidev.github.io)
-
-Buono studio!
+| Avanzato             | Intermedio                   | Base                     |
+| -------------------- | ---------------------------- | ------------------------ |
+| VS Code, Flowgorithm | C++, HTML5, CSS3, Git, Cisco | Java, Python, JavaScript |
 
 ---
 
-## 🌍 Altri Profili & Organizzazioni
+## 📊 GitHub Stats
 
-<!-- - 🔗 [LinkedIn](https://linkedin.com/in/tuo-profilo) -->
-<!-- - 🐦 [Twitter](https://twitter.com/tuo-profilo) -->
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuppoTalpa&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuppoTalpa&theme=tokyonight"/>
+</div>
 
-- 🏢 Membro di [Endless Team](https://github.com/Endless-Team)
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuppoTalpa&theme=tokyonight"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuppoTalpa&theme=tokyonight"/>
+</div>
 
 ---
 
-## 🎨 Targhette Decorative
+## 📂 Progetti Principali
 
-![Profile Views](https://komarev.com/ghpvc/?username=tuo-username&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/tuo-username?label=Followers&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/tuo-username?affiliations=OWNER%2CCOLLABORATOR&style=social)
+### 📚 Repository Scolastici
+
+| Repository                                                   | Descrizione                            | Tecnologie            |
+| ------------------------------------------------------------ | -------------------------------------- | --------------------- |
+| [**Informatica**](https://github.com/LuppoTalpa/Informatica) | Progetti di programmazione e algoritmi | C++, Python, Java     |
+| [**TEPSIT**](https://github.com/LuppoTalpa/TEPSIT)           | Sviluppo web e interfacce              | HTML, CSS, JavaScript |
+| [**Sistemi**](https://github.com/LuppoTalpa/Sistemi)         | Configurazione reti e infrastrutture   | Cisco Packet Tracer   |
 
 <!--
-**AluppiDEV/AluppiDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 📒 Appunti & Documentazione
 
-Here are some ideas to get you started:
+📖 Consulta la mia **collezione di appunti tecnici** con sintesi dei concetti fondamentali:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📌 Struttura organizzata per argomento
+- 🔗 Collegamenti a risorse ed esempi pratici
+- ✨ Aggiornamenti continui
+
+👉 **Esplora tutti gli appunti** → [aluppidev.github.io](https://aluppidev.github.io)
+
 -->
+---
+## 📫 Contatti
+
+**Professionali**
+- 🏢 [Endless Team](https://github.com/Endless-Team)
+<!-- - 💼 [Portfolio / Appunti](https://aluppidev.github.io) -->
+<!-- - 🔗 [LinkedIn](https://linkedin.com/in/TUO-PROFILO) -->
+- 📧 [Email](mailto:luppialessandro@istitutocorni.it)
+
+**Social**
+- [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697395013994414093)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adviceale)
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=LuppoTalpa&color=blueviolet&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/LuppoTalpa?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/LuppoTalpa?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+</div>
