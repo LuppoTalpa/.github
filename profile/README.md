@@ -43,7 +43,7 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuppoTalpa&theme=tokyonight&hide_border=false"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=LuppoTalpa&theme=tokyonight&hide_border=false">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuppoTalpa&theme=tokyonight"/>
 </div>
 
@@ -64,8 +64,8 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 | [**TEPSIT**](https://github.com/LuppoTalpa/TEPSIT)           | Sviluppo web e interfacce              | HTML, CSS, JavaScript |
 | [**Sistemi**](https://github.com/LuppoTalpa/Sistemi)         | Configurazione reti e infrastrutture   | Cisco Packet Tracer   |
 
-<!--
----
+## <!--
+
 ## 📒 Appunti & Documentazione
 
 📖 Consulta la mia **collezione di appunti tecnici** con sintesi dei concetti fondamentali:
@@ -76,17 +76,19 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 
 👉 **Esplora tutti gli appunti** → [aluppidev.github.io](https://aluppidev.github.io)
 
--->
----
+## -->
+
 ## 📫 Contatti
 
 **Professionali**
+
 - 🏢 [Endless Team](https://github.com/Endless-Team)
-<!-- - 💼 [Portfolio / Appunti](https://aluppidev.github.io) -->
-<!-- - 🔗 [LinkedIn](https://linkedin.com/in/TUO-PROFILO) -->
+  <!-- - 💼 [Portfolio / Appunti](https://aluppidev.github.io) -->
+  <!-- - 🔗 [LinkedIn](https://linkedin.com/in/TUO-PROFILO) -->
 - 📧 [Email](mailto:luppialessandro@istitutocorni.it)
 
 **Social**
+
 - [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/697395013994414093)
 - [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/adviceale)
 
