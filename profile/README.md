@@ -64,7 +64,7 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 | [**TEPSIT**](https://github.com/LuppoTalpa/TEPSIT)           | Sviluppo web e interfacce              | HTML, CSS, JavaScript |
 | [**Sistemi**](https://github.com/LuppoTalpa/Sistemi)         | Configurazione reti e infrastrutture   | Cisco Packet Tracer   |
 
-## <!--
+<!--
 
 ## 📒 Appunti & Documentazione
 
@@ -76,7 +76,7 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 
 👉 **Esplora tutti gli appunti** → [aluppidev.github.io](https://aluppidev.github.io)
 
-## -->
+-->
 
 ## 📫 Contatti
 
@@ -96,7 +96,7 @@ Mi piace creare progetti pratici e sperimentare con nuove tecnologie.
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=LuppoTalpa&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=LuppoTalpa&color=blue&style=flat)
 ![GitHub Followers](https://img.shields.io/github/followers/LuppoTalpa?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/LuppoTalpa?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
